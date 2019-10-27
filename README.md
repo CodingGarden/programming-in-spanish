@@ -1,8 +1,16 @@
+# ¡Un avatar personalizado para ti!
+# A personalized avatar for you!
+
+Crea tu avatar aquí: https://holamundo.now.sh/
+Create your avatar here: https://holamundo.now.sh/
+
 ## Todo List
 ## Lista de Quehaceres
 
-* [x] hola mundo en JavaScript y HTML
-* [x] configurar un proyecto p5.js
+* [x] Hello world in JavaScript and HTML
+  * hola mundo en JavaScript y HTML
+* [x] Setup a p5.js project
+  * configurar un proyecto p5.js
 * [x] create a square which will be the background for the avatar
   * crear un cuadrado que sera el fondo del avatar
 * [x] draw a basic face
