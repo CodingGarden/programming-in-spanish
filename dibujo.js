@@ -95,14 +95,12 @@ function convertirNombreACara() {
   colorLaBoca = coloresBoca[numeroLaBoca % coloresBoca.length];
   ajusteLaBoca = map(numeroLaBoca, 0, 700, 25, 100);
   console.log(parteLaBoca, numeroLaBoca, colorLaBoca);
-
 }
 
+// dibujar
 function draw() {
-  // console.log(entrada.value());
+  // establecer el color de fondo
   background(colorDePiel);
-
-  // noStroke();
   
   fill(colorLosOjos);
   // ojo izquierdo
@@ -110,7 +108,7 @@ function draw() {
   // ojo derecho
   ellipse(275, 100, 70 * ajusteDeOjoDerecho);
 
-  // nariz!
+  // de nariz
   fill(colorLaNariz);
   triangle(200, 175, 225, ajusteDeNariz, 200, ajusteDeNariz);
 
