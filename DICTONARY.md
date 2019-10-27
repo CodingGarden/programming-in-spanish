@@ -1,290 +1,371 @@
 ## Common Programming Terms
-## Terminos Comunes de Programacion
+## Términos Comunes de Programación
 
 ---
-
-declare a variable
-declarar una variable
-
+declare a variable = declarar una variable
 ---
-
-invoke a function
-
+invoke a function = invocar una función
 ---
-
-pass the argument to the function
-
+library = librería, biblioteca
 ---
-
-todo list
-
-list de quehaceres
-
+pass the argument to the function = pasarle el argumento a la función
 ---
-
-create a file
-crear un archivo
-
+todo list = lista de tareas/quehaceres
 ---
-
-print a message with console.log
-
-imprimir un mensaje con console.log
-
+list = lista
 ---
-
-to log for example
-
-loguear por ejemplo
-
+create a file = crear un archivo
 ---
-
-parenthesis
-
-parentesis
-
+print a message with console.log = imprimir un mensaje con console.log 
 ---
-
-single quotes
-
-comillas singulares
-comillas simples
-
+console = consola
 ---
-
-double quotes
-
-comilla dobles
-
-----
-
-to quote / the quotes
-
-citar seria los quotes
-
+to log (verb) = anotar, registrar, imprimir 
 ---
-
-create a basic  HTML document
-crear un documento basico de HTML
-
+log (noun) = anotación, registro, impresión
 ---
-
-! - exlamation point
-
-! - simbolo de exclamacion
-
+for example = por ejemplo
 ---
-
-snippet / fragment
-a small piece of reusable code
-
-fragmento de codigo
-un pedazo pequeño de codigo reusable
-
+parenthesis = paréntesis
 ---
-
-shortcut
-
-atajo
-
+single quotes = comillas simples/sencillas/singulares
 ---
-
-add a script tag to the body
-
-añadir un etiqueta de script en el body
-
+output = salida, resultado, impresión
 ---
-
-add the src attribute
-
-añadir el atributo src
-
+double quotes = comilla dobles
 ---
-
-equals
-
-es igual
-
+log in = iniciar sesión, acceder, conectarse, entrar
 ---
-
-the path to the file
-la ruta al archivo
-
+log out = cerrar sesión, finalizar sesión, desconectarse, salir
 ---
-
-fallo
-bug
-
+to quote (verb) / quote (noun) = citar / cita (referring to quoting a phrase from someone)
+rodear/encerrar entre comillas (referring to adding the quotes or wrapping a text between quotes)
 ---
-
-today we will have many bugs
-vamos a tener muchas fallas
-
+create a basic HTML document = crear un documento básico de HTML
 ---
-
-lets change the title
-vamos a cambiar el titulo
-
-
+! - exlamation point = signo/símbolo de exclamación
 ---
-
-lets open the file in the web browser
-vamos a abrir el archivo en el navegador
-
+snippet / fragment a small piece of reusable code = fragmento/pieza de código, código reusable
 ---
-
-right click
-
-click derecho
-segundo click
-
+shortcut = atajo
 ---
-
-pulsar Enter
-
-press Enter
-
+add a script tag to the body = añadir un etiqueta de script en el body
 ---
-
-refresh the browser
-actualizar el navegador
-
+add the src attribute = añadir el atributo src
 ---
-
-page
-pagina
-
+script = instrucciones del programa, secuencia de comandos, script(anglicism)
 ---
-
-comment out the line
-comentar la linea
-
+equals (plural) = son iguales 
 ---
-
-back slash
-
-barra invertida
-
+equal (singular) = es igual 
 ---
-
-slash
-
-barra
-
+the path to the file = la ruta al archivo
 ---
-
-i got distracted
-me distrai
-
+bug (singular) = falla (in some regions fallo > masculine)
 ---
-
-input 
-
-introducir
-ingresar
-
+bugs (plural) = fallas (in some regions fallos > masculine)
 ---
-
-ancho y alto
-
-height and width
-
+today we will have many bugs = hoy vamos a tener muchas fallas
 ---
-
-optional
-opcional
-
+let's change the title = vamos a cambiar el título
 ---
-
-square brackets
-corchetes
-
+lets open the file in the web browser = vamos a abrir el archivo en el navegador
 ---
-
-save
-guardar
-
+right click = click derecho
 ---
-
-stroke
-trazo / contorno
-
+press Enter = pulsar Retorno/Enter
 ---
-
-brackets
-Corchetes, braquetas, bracas
-
+refresh the browser = actualizar el navegador
 ---
-
-hash symbol - #
-
-almohadilla
-numeral
-(en unas partes de mexico le decmios gato) 😸
-
+page = página
 ---
-
-initialize the variable
-inicializar la variable
-
+comment out the line = comentar la línea 
 ---
-
-declare the variable
-declarar la variable
-
+back slash = barra invertida/oblicua/diagonal
 ---
-
-margin
-margen
-
+slash = barra
 ---
-
-padding
-relleno
-
+put = introducir, colocar
 ---
-
-dot / point / period
-
-punto
-
+i got distracted = me distraje
 ---
-
-string / text
-cadena de caracteres
-
+entry = entrada
 ---
-
-for loop
-
-Bucle
-
+input (noun) = ingreso, introducción, entrada, input(anglicism)
 ---
-
-plus equals
-mas igual
-
+to input (verb) = ingresar, introducir, entrar
 ---
-
-modulus / remainder / residual
-modulo / resto / residuo
-
+height and width = alto y ancho
 ---
-
-division
-division
-
+optional = opcional
 ---
-
-length
-largo / tamaño
-
+option = opción
 ---
-
-rename
-renombrar
-
+options = opciones
 ---
-
-refactor
-refactorizar
+to convert = convertir
+---
+conversion = conversión
+---
+canvas = lienzo, canvas
+---
+custom = personalizado, customizado(anglicism)
+---
+customize = personalizar, customizar(anglicism)
+---
+to draw (verb) = dibujar
+---
+draw (noun) = dibujo
+---
+contribute (verb) = contribuir
+---
+contribution (noun) = contribución
+---
+take a break = tomar un descanso, tomar un receso
+---
+stretching timer = temporizador de estiramiento, timer(anglicism) de estiramiento
+---
+configure (verb) = configurar
+---
+configuration (noun) = configuración
+---
+background = fondo
+---
+hello world = hola mundo
+---
+feature = característica
+---
+square brackets = corchetes, llaves cuadradas
+---
+save = guardar, grabar
+---
+stroke = trazo (as in drawing a stroke), contorno (as in a shape's outline)
+---
+border = borde
+---
+curly brackets = corchetes, llaves (in Puerto Rico) braquetas (sounds like braguetas means zipper, avoid), bracas (sounds like bragas means women's underwear, avoid)
+---
+hash symbol # = almohadilla numeral, símbolo de número, signo de número (in Puerto Rico),  gato(cat 😸)(In some regions of México)
+---
+initialize the variable = inicializar la variable
+---
+margin = margen
+---
+padding = espacio, relleno
+---
+dot/point/period = punto
+---
+text string = cadena de caracteres/texto
+---
+text = texto
+---
+string/chain = cadena
+---
+characters = caracteres
+---
+loop = bucle 
+---
+for loop = bucle for
+---
+plus equals = mas igual
+---
+operator = operador
+---
+modulus = módulo
+---
+remainder = residuo, sobrante, restante
+---
+division = división
+---
+length = largo, tamaño
+---
+rename = renombrar
+---
+refactor = refactorizar
+---
+nickname = apodo, pseudónimo, sobrenombre
+---
+to fill (verb) = rellenar
+---
+fill (noun) = relleno
+---
+set (verb) = configurar, setear(anglicism)
+---
+set (noun) = configuración, seteo(anglicism)
+---
+get = obtener
+---
+to paint (verb) = pintar
+---
+paint (noun) = pintura
+---
+to help (verb) = ayudar
+---
+help (noun) = ayuda
+---
+radius = radio
+---
+mathematics/math = matemáticas
+---
+circle = círculo
+---
+description = descripción
+---
+required = requerido (requerida > femenine)
+---
+Fifty/50 = Cincuenta
+---
+One hundred/100 (singular) = Cién
+---
+Hundred (plural) = Cientos
+---
+Two hundred/200 = Doscientos
+---
+Five Hundred/500 = Quinientos
+---
+Three hundred/300 = Trescientos
+---
+Thousand = Mil
+---
+Thousand of... = Miles de...
+---
+One Thousand/1000 = Mil
+---
+Two Thousand/2000 = Dos Mil
+---
+Three Thousand/3000 = Tres Mil
+---
+Triangle = triángulo
+---
+Example = ejemplo
+---
+Reference = referencia
+---
+position = posición
+---
+coordinates = coordenadas
+---
+x = x (pronounces "equis")
+---
+y = y (pronounces "ye" or "i griega"(greek i))
+---
+done = Hecho, terminado
+---
+finished = terminado
+---
+finish (verb) = terminar
+---
+complete (verb) = completar
+---
+completed = completado
+---
+code (noun) = código
+---
+to code (verb) = codear, escribir código
+---
+war = guerra
+---
+Code Wars = Guerras de Código
+---
+language = lenguaje
+---
+programming = programación
+---
+programming language = lenguaje de programación
+---
+program (noun) = programa
+---
+to program (verb) = programar
+---
+beginner = principiante
+---
+novice/newbie = novato
+---
+color (singular) = color
+---
+colors (plural) = colores
+---
+Basic = básico (básica > femenine)
+---
+palette = paleta
+---
+color palette = paleta de colores
+---
+card = tarjeta
+---
+copy = copiar
+---
+paste = pegar
+---
+copypaste (verb) = copiar y pegar
+---
+message = mensaje
+---
+skin tone = tono de piel
+---
+skin color = color de piel
+---
+skin = piel
+---
+part = parte
+---
+area = área
+---
+region = región
+---
+set-up (verb) = configurar, preparar
+---
+set-up (noun) = configuración, preparación
+---
+name = nombre
+---
+at the top = arriba, en la parte de arriba
+---
+at the bottom = abajo, en la parte de abajo
+---
+at the left = a la izquierda
+---
+at the right = a la derecha
+---
+at the center = en el centro/medio
+---
+middle = medio
+---
+center = centro
+---
+access = acceder, accesar(anglicism)
+---
+first = primero (primera > femenine)
+---
+last = último (última > femenine)
+---
+translate = traducir
+---
+translation = traducción
+---
+frontend = lado del cliente, frontend(anglicism)
+---
+backend = lado del servidor, backend(anglicism)
+---
+assign = asignar
+---
+hex color code = código de color hexadecimal
+---
+full stack developer = desarrollador de perfil completo, desarollador versátil, desarrollador full stack(anglicism)
+---
+fixed (as in fixed size) = fijo (fija > femenine)
+---
+fixed (as in fixed a bug) = arreglado, solucionado
+---
+x plus y = x mas y
+---
+x minus y = x menos y
+---
+x divided by y = x divivido por y 
+---
+x multiplied/times by y = x por y
+---
+request = petición, solicitud
+---
+arrange = organizar, ordenar
+---
